@@ -1,0 +1,22 @@
+# Local Environment Variables
+.env
+
+# Local Databases
+dags/weather.db
+*.db
+*.sqlite
+
+# Airflow Logs
+logs/
+
+# Python Cache & Artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Mac OS / Windows system files (Standard Best Practice)
+.DS_Store
+Thumbs.db
+
+# PyCharm IDE
+.idea/
