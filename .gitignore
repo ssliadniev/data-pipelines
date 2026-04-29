@@ -1,0 +1,8 @@
+# Python Cache & Artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+
+# PyCharm IDE
+.idea/
